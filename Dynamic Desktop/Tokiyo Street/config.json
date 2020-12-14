@@ -1,0 +1,130 @@
+[
+  {
+    "fileName": "tokiyo-street-0000.jpeg",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": true,
+    "altitude": -84.07,
+    "azimuth": 12.39
+  },
+  {
+    "fileName": "tokiyo-street-0300.jpeg",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": true,
+    "altitude": -48.24,
+    "azimuth": 93.20
+  },
+  {
+    "fileName": "tokiyo-street-0600.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": -10.00,
+    "azimuth": 111.14
+  },
+  {
+    "fileName": "tokiyo-street-0700.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 2.29,
+    "azimuth": 118.07
+  },
+  {
+    "fileName": "tokiyo-street-0800.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 13.18,
+    "azimuth": 126.30
+  },
+  {
+    "fileName": "tokiyo-street-0900.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 23.01,
+    "azimuth": 136.44
+  },
+  {
+    "fileName": "tokiyo-street-1000.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 30.96,
+    "azimuth": 149.07
+  },
+  {
+    "fileName": "tokiyo-street-1100.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 36.16,
+    "azimuth": 164.40
+  },
+  {
+    "fileName": "tokiyo-street-1200.jpeg",
+    "isPrimary": true,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 37.77,
+    "azimuth": 181.54
+  },
+  {
+    "fileName": "tokiyo-street-1400.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 29.72,
+    "azimuth": 213.35
+  },
+  {
+    "fileName": "tokiyo-street-1500.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 21.38,
+    "azimuth": 225.50
+  },
+  {
+    "fileName": "tokiyo-street-1600.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 11.30,
+    "azimuth": 235.25
+  },
+  {
+    "fileName": "tokiyo-street-1700.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": 0.43,
+    "azimuth": 243.21
+  },
+  {
+    "fileName": "tokiyo-street-1800.jpeg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": false,
+    "altitude": -12.16,
+    "azimuth": 249.96
+  },
+  {
+    "fileName": "tokiyo-street-1900.jpeg",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": true,
+    "altitude": -24.67,
+    "azimuth": 255.98
+  },
+  {
+    "fileName": "tokiyo-street-2100.jpeg",
+    "isPrimary": false,
+    "isForLight": false,
+    "isForDark": true,
+    "altitude": -50.56,
+    "azimuth": 267.89
+  }
+]
